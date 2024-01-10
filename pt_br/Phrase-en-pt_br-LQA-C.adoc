@@ -1,0 +1,55 @@
+= Documentação do sistema de gerenciamento de tradução Phrase
+
+== Introdução
+
+O Phrase é um sistema de gerenciamento de tradução projetado para simplificar o processo de localização para empresas, fornecendo uma plataforma centralizada para gerenciar fluxos de trabalho de tradução. Esta documentação tem como objetivo orientar os usuários através dos vários recursos e funcionalidades oferecidos pelo Phrase.
+
+== Começando
+
+=== Criação e configuração da conta
+
+Para começar a usar o Phrase, os usuários precisam criar uma conta. Siga estas etapas para configurar sua conta:
+1. Acesse o site da Phrase.
+2. Clique no botão “Inscrever-se”.
+3. Preencha as informações necessárias para criar sua conta.
+4. Depois de cadastrado, faça login para acessar a plataforma.
+
+=== Criação do projeto
+
+Depois de fazer login, os usuários podem criar projetos de tradução:
+1. Clique no botão “Novo projeto”.
+2. Insira os detalhes do projeto, como nome do projeto, idioma de origem e idiomas de destino.
+3. Clique em “Criar” para gerar o projeto.
+
+== Características
+
+=== Características principais
+
+O Phrase oferece vários recursos para agilizar o processo de tradução:
+- **Memória de tradução**: Armazene e reutilize conteúdo traduzido anteriormente.
+- **Gerenciamento de glossários**: Mantenha um glossário de termos para traduções consistentes.
+- **Ferramentas de colaboração**: Convide membros da equipe para colaborar em projetos de tradução.
+- **Opções de integração**: Conecte o Phrase com outras ferramentas para fluxos de trabalho perfeitos.
+
+=== Usando a memória de tradução
+
+A memória de tradução (TM) no Phrase ajuda os usuários a aproveitar as traduções existentes. Para usar o TM:
+1. Acesse o projeto.
+2. Clique na guia “Memória de tradução”.
+3. Pesquise traduções ou segmentos relevantes.
+
+== Solução de problemas
+
+=== Problemas comuns
+
+Se você encontrar problemas ao usar o Phrase, aqui estão algumas etapas comuns de solução de problemas:
+- **Problema**: Não é possível fazer upload de arquivos.
+  **Solução**: Verifique as restrições de formato e tamanho do arquivo.
+
+== Suporte
+
+Para obter mais assistência ou dúvidas, entre em contato com nossa equipe de suporte emsupport@phrase.com.
+
+== Conclusão
+
+Esta documentação fornece uma visão geral das funcionalidades do Phrase. Explore a plataforma para descobrir mais recursos e otimizar seus processos de localização.
